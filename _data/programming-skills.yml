@@ -1,14 +1,38 @@
-- name: HTML5/CSS3
-  percentage: 90
-  level: Expert
-  color: danger
+- title: Programming & Analytics Skills
+  source:
+    - name: Python
+      level: Expert
+      percentage: 95
+      color: success
+    - name: SQL
+      level: Expert
+      percentage: 90
+      color: success
+    - name: Stata
+      level: Advanced
+      percentage: 80
+      color: info
+    - name: SPSS
+      level: Advanced
+      percentage: 80
+      color: info
+    - name: MongoDB
+      level: Intermediate
+      percentage: 70
+      color: warning
 
-- name: Go
-  percentage: 5
-  level: Beginner
-  color:
+- title: Visualization & BI Tools
+  source:
+    - name: Tableau
+      level: Expert
+      percentage: 90
+      color: success
+    - name: Power BI
+      level: Advanced
+      percentage: 85
+      color: info
+    - name: Excel (incl. VBA)
+      level: Advanced
+      percentage: 85
+      color: info
 
-- name: Python
-  percentage: 90
-  level: Expert
-  color: secondary
