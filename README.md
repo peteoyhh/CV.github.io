@@ -1,69 +1,43 @@
-# Online CV Templete for IS445
+# Pete Chen's Personal Website
 
-This is a resource for [IS445 as of Fall 2022](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/).  It is a way to host an online CV with interactive visualizations.  See the course page for more materials.
+Welcome! This is the source code for my personal website, built using [Jekyll](https://jekyllrb.com/) and hosted via GitHub Pages.
 
-# How to use this repo
+## 👋 About Me
 
-## Download & install
+I'm Pete Chen, a graduate student at the University of Illinois Urbana-Champaign studying Information Management. My interests lie in data analytics, visualization, and applying machine learning to real-world problems. This website is a place where I share selected projects, academic work, and some of my research interests.
 
- 1. clone this repo or download the contents
- 1. make sure you have Ruby *properly* installed (see [the course's install instructions](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week09/installation_instructions_week11.html) for this process)
- 1. Install using `bundle install` (see [the course's install instructions](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week09/installation_instructions_week11.html))
- 1. Host locally with `bundle exec jekyll serve` or `bundle exec jekyll serve -l` (live reload)
- 1. Modify files as needed (see sections below)
+## 🛠️ Features
 
-## General configurations
+- Project portfolio with visuals and descriptions
+- Custom homepage with personal bio
+- Responsive layout
+- Built with Jekyll and Markdown
+- Fully hosted on GitHub Pages
 
-Edit info in: _config.yml
+## 🚀 Getting Started
 
-Some things you should be sure to check
- 1. The "how to use this document" info at the top
- 1. title, description, repository -- basic title and linking info
- 1. baseurl -- in case you want to have it be a sub-page of your main github.io page
- 1. exclude -- this section at the end of the config file, add at will in case you have other things stored in your github.io repo
+To build and run this site locally:
 
-## About page
+1. Install Ruby and Bundler
+2. Clone the repo
+3. Run `bundle install` to install dependencies
+4. Run `bundle exec jekyll serve` to preview the site at `http://localhost:4000`
 
-Edit info in:
- 1. pages/about.md for your general introduction
- 1. _data/programming-skills.yml to update your your programming skills list
- 1. _data/other-skills.yml to update other skills
- 1. timeline.yml to update the timeline of your CV
- 
-## Projects
+## 📁 Folder Structure
 
-Add project files in: 
- * `_projects` to add page files
- * `pages/projects.html` under `remote_projects` for links to your github projects.  Note: this will ONLY link to your repos and you must specify the end of your repo URL (see example)
+- `_projects/`: Project showcase content
+- `_posts/`: Blog posts (if applicable)
+- `_layouts/`, `_includes/`: Layout templates and components
+- `assets/`: Images, CSS, and other static files
+- `_config.yml`: Site settings
 
-You can link both project pages and github repositories.  Github repos will autopopulate, pages allow you to provide more details.
+## 🌐 Live Website
 
-By default, the project pages go first, but you can modify this if you want any github repos to show up first.
+You can view the site at: [https://yourusername.github.io](https://yourusername.github.io)
 
-Project pages can be added by adding markdown files in the `_projects` folder.
+## 📫 Contact
 
-Project layouts can be modified in `_includes/projects`.
-
-See `_example_projects` folder for more examples from [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU).
-
-## Python notebooks
-
-Generally, you will be linking notebooks that exist in other repositories that are doing analysis.  However for any "loose" notebooks, you can store them in the `python_notebooks` folder.  In theory you can do fancy local linking with it, but it hasn't been implemented yet.
-
-## Altair-saved chart json's
-
-By default these are saved in `assets/json/` and static images are saved in `assets/pngs/`.  See the example 
-
-
-## Blog Posts
-
-All blog posts will be posted by most recent time stamp -- please see the example for a properly formatted file name.
-
-Add blog posts in:
- * `_posts` (see example)
-
-You can see further examples in the `_example_posts` directory.
-
+If you'd like to connect, feel free to reach out via [email](mailto:xc24502@gmail.com).
 
 ## Sources
 
