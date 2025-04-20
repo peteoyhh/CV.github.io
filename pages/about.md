@@ -7,8 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-possibly a corgi, most definitely not!  Either way there are really neat things I am up to!
+Hi! I’m Pete Chen, a graduate student at the University of Illinois Urbana-Champaign (MIM ‘26).  
+I specialize in data analytics, visualization, and machine learning.  
+My background blends technical skills with business insight — I enjoy using data to tell clear, actionable stories.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
