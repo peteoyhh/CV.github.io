@@ -1,27 +1,39 @@
-- title: AMAZING STUFF
-  from: 2019
+- title: Master of Information Management, University of Illinois Urbana-Champaign
+  from: 2023
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: >
+    Pursuing graduate studies with a focus on data analytics, data visualization, and machine learning. 
+    Completed coursework in relational database design, sociotechnical systems, and information modeling. 
+    Maintained a 4.0 GPA while contributing to multiple hands-on data visualization projects using Python and SQL.
 
-- title: Student, Harvard CS
-  from: 2013
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Fintech Analyst Intern, China Telecom
+  from: 2023
+  to: 2024
+  description: >
+    Developed and maintained financial dashboards using Tableau and Power BI to monitor key performance indicators. 
+    Automated forecasting pipelines using Python and SQL, enabling more accurate financial projections for the fintech division. 
+    Supported the digital transformation of business intelligence processes across departments.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Co-Founder, Carpe Diem LTD
+  from: 2021
+  to: 2023
+  description: >
+    Launched and operated a startup offering interactive entertainment experiences. 
+    Built a customer-facing WeChat Mini Program and implemented machine learning-based user segmentation strategies. 
+    Designed ETL processes in Python to streamline customer analytics and marketing automation.
 
+- title: Bachelor of Arts in Economics, Boston University
+  from: 2020
+  to: 2023
+  description: >
+    Completed a rigorous economics curriculum with emphasis on quantitative analysis and applied statistics. 
+    Participated in several research-oriented projects involving Excel-based modeling and econometrics. 
+    Earned Dean’s List honors in 2022 while also preparing for transition into the data analytics field.
+
+- title: Project Management Intern, SolutionKeys LTD
+  from: 2020
+  to: 2020
+  description: >
+    Collaborated with senior managers to oversee internal web platform improvements and feature rollouts. 
+    Conducted market research and supported UX refinement through user surveys and interface audits. 
+    Gained early exposure to project coordination and strategic planning in a fast-paced environment.

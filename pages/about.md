@@ -12,3 +12,5 @@ I specialize in data analytics, visualization, and machine learning.
 My background blends technical skills with business insight — I enjoy using data to tell clear, actionable stories.
 
 {% include about/skills.html %}
+
+{% include about/timeline.html %}
