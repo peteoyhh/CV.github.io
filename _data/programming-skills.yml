@@ -1,8 +1,7 @@
-- title: Programming & Analytics Skills
-  source:
+
     - name: Python
       level: Expert
-      percentage: 95
+      percentage: 90
       color: success
     - name: SQL
       level: Expert
@@ -10,26 +9,24 @@
       color: success
     - name: Stata
       level: Advanced
-      percentage: 80
+      percentage: 70
       color: info
     - name: SPSS
       level: Advanced
       percentage: 80
       color: info
     - name: MongoDB
-      level: Intermediate
+      level: Advanced
       percentage: 70
-      color: warning
+      color: info
 
-- title: Visualization & BI Tools
-  source:
     - name: Tableau
       level: Expert
       percentage: 90
       color: success
     - name: Power BI
       level: Advanced
-      percentage: 85
+      percentage: 80
       color: info
     - name: Excel (incl. VBA)
       level: Advanced
